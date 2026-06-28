@@ -1,86 +1,36 @@
-# HAD - Human-Decides AI-Designs
+# Hi there, I'm Amin Rezaeifard 👋
 
-> A next-generation methodology for AI-driven ERP analysis, design, and implementation.
+Business Systems Analyst | ERP Consultant | BPMN Specialist
 
-## Vision
+I have 10+ years of experience in business process analysis, ERP implementation, workflow automation, and enterprise solution design.
 
-HAD (Human-Decides AI-Designs) is a research and development project that rethinks how enterprise systems are analyzed, designed, and implemented using Artificial Intelligence.
+### What I work on
 
-Instead of replacing human decision-making, HAD keeps humans in control while AI accelerates design, documentation, and implementation.
+* Enterprise Resource Planning (ERP)
+* Business Process Management (BPM)
+* BPMN Process Modeling
+* Business Analysis
+* AI-assisted Enterprise Systems
+* Digital Transformation
 
-**Humans decide. AI designs.**
+### Current Focus
 
----
+I'm currently researching **HAD (Human-Decides AI-Designs)**, a methodology that combines BPMN and Artificial Intelligence to support the analysis, design, and implementation of enterprise systems while keeping humans in control of business decisions.
 
-## Core Principles
+### Technologies & Tools
 
-* Human-centered decision making
-* AI-assisted system design
-* BPMN as a visual prompt language
-* Living documentation
-* Design once, deploy anywhere
-* Shared Intelligence. Private Knowledge.
+* BPMN 2.0
+* ERP Systems
+* SQL
+* REST APIs
+* Git & GitHub
+* AI-assisted System Design
 
----
+### Connect with me
 
-## Current Status
-
-🚧 Research & Architecture Phase
-
-The project is currently focused on:
-
-* Methodology definition
-* BPMN extensions
-* AI-driven ERP generation
-* Cloud/Local architecture
-* Academic research
-* Prototype planning
+* LinkedIn: *(Add your LinkedIn URL here)*
+* Email: *(Optional)*
 
 ---
 
-## Planned Features
-
-* AI-assisted BPMN modeling
-* Intelligent process analysis
-* Automatic ERP module suggestions
-* Form generation
-* Entity generation
-* API generation
-* Report & Dashboard generation
-* AI Advisors
-* Agent Tasks
-* Smart Assignment Engine
-* Living Documentation
-
----
-
-## Repository Structure
-
-```
-docs/
-research/
-architecture/
-specifications/
-examples/
-prototype/
-papers/
-```
-
----
-
-## Roadmap
-
-* [x] Initial concept
-* [ ] Methodology Specification
-* [ ] BPMN Extensions
-* [ ] Architecture Design
-* [ ] Prototype
-* [ ] Research Paper
-* [ ] Open Source Release
-
----
-
-## License
-
-This project is under active research and development.
-License will be defined before the first public release.
+> Humans decide. AI designs.
